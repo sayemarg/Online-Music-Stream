@@ -1,0 +1,157 @@
+{
+  "music": [
+    {
+      "id": 1,
+      "image": "https://s16.picofile.com/file/8422213418/1.jpg",
+      "src": "http://sayemarg.poshtiban.io/signed/e8e3118151ffd8a9fd0ce4f90f452860/2475259581/6009dbf521e318338508bd47/1.mp3",
+      "name": "Zebr",
+      "singer": "Shayea & Ho3ein",
+      "lyric": "Lyric Text Zebr",
+      "pid": 1
+    },
+    {
+      "id": 2,
+      "image": "https://s17.picofile.com/file/8422213526/2.jpg",
+      "src": "http://sayemarg.poshtiban.io/signed/267c6aff166cfcda46951557f7e254a9/2475259630/6009db48c1bd8026796f20a1/2.mp3",
+      "name": "Didgah",
+      "singer": "Ho3ein",
+      "lyric": "Lyric Text Didgah",
+      "pid": 1
+    },
+    {
+      "id": 3,
+      "image": "https://s16.picofile.com/file/8422213542/3.jpg",
+      "src": "http://sayemarg.poshtiban.io/signed/286b0c9e9d505e194a503ff60e045544/2475259601/6009dbf59dc969240b5dad28/3.mp3",
+      "name": "Sholesh Kon",
+      "singer": "Shayea",
+      "lyric": "Lyric Text Sholesh Kon",
+      "pid": 1
+    },
+    {
+      "id": 4,
+      "image": "https://s17.picofile.com/file/8422213550/4.jpg",
+      "src": "http://sayemarg.poshtiban.io/signed/3eb771bcf7225f92317d0620f870edcc/2475259643/6009dbf53758f46ae2667410/4.mp3",
+      "name": "Daram",
+      "singer": "Shayea & Sajjadi",
+      "lyric": "Lyric Text Daram",
+      "pid": 1
+    },
+    {
+      "id": 5,
+      "image": "https://s17.picofile.com/file/8422213576/5.jpg",
+      "src": "http://sayemarg.poshtiban.io/signed/6b2fab5b3432987a460ac238fe667905/2475259657/6009dbf5c2515b1ce4070d4a/5.mp3",
+      "name": "Tangi Nafas",
+      "singer": "Shayea",
+      "lyric": "Lyric Text Tangi Nafas",
+      "pid": 3
+    },
+    {
+      "id": 6,
+      "image": "https://s17.picofile.com/file/8422213592/6.jpg",
+      "src": "http://sayemarg.poshtiban.io/signed/5f428f8653723b3e01f25b28d9f0a332/2475259667/6009dbf59483b670bb6df6ea/6.mp3",
+      "name": "Bazam Kalan",
+      "singer": "Hichkas & Pishro",
+      "lyric": "Lyric Text Bazam Kalan",
+      "pid": 3
+    },
+    {
+      "id": 7,
+      "image": "https://s16.picofile.com/file/8422213618/7.jpg",
+      "src": "http://sayemarg.poshtiban.io/signed/869a352d94a807901f1858e3c300bb33/2475259678/6009dcb92472c32aa92fd67a/7.mp3",
+      "name": "Mesle Dadasham",
+      "singer": "Hichkas",
+      "lyric": "Lyric Text Mesle Dadasham",
+      "pid": 5
+    },
+    {
+      "id": 8,
+      "image": "https://s16.picofile.com/file/8422213626/8.jpg",
+      "src": "http://sayemarg.poshtiban.io/signed/c2fb70601318cd9457a7d5913af4ea23/2475259689/6009dcda0a3be10932292bf3/8.mp3",
+      "name": "Delkhoshi",
+      "singer": "Ho3ein & Bigrez",
+      "lyric": "Lyric Text Delkhoshi",
+      "pid": 5
+    },
+    {
+      "id": 9,
+      "image": "https://s17.picofile.com/file/8422213634/9.jpg",
+      "src": "http://sayemarg.poshtiban.io/signed/b2265a1a549b33335f3c75338ab1c58f/2475259696/6009dce57ed47836ea34abfc/9.mp3",
+      "name": "Every Thing",
+      "singer": "Billie Eilish",
+      "lyric": "Lyric Text Every Thing",
+      "pid": 5
+    },
+    {
+      "id": 10,
+      "image": "https://s16.picofile.com/file/8422213642/10.jpg",
+      "src": "http://sayemarg.poshtiban.io/signed/d4c2e5eab72dbdea491e83e83a31ac6e/2475259706/6009dd115e0f7f33c4281a9d/10.mp3",
+      "name": "Tabestoon Kootahe",
+      "singer": "Zedbazi",
+      "lyric": "Lyric Text Tabestoon Kootahe",
+      "pid": 5
+    }
+  ],
+
+  "playlist": [
+    {
+      "id": 1,
+      "image": "https://s17.picofile.com/file/8422212368/1.jpg",
+      "name": "Playlist 1",
+      "detail": "This Is About Playlist 1 And Can Be Truncated"
+    },
+    {
+      "id": 2,
+      "image": "https://s17.picofile.com/file/8422212376/2.jpg",
+      "name": "Playlist 2",
+      "detail": "This Is About Playlist 2 And Can Be Truncated"
+    },
+    {
+      "id": 3,
+      "image": "https://s17.picofile.com/file/8422212400/3.jpg",
+      "name": "Playlist 3",
+      "detail": "This Is About Playlist 3 And Can Be Truncated"
+    },
+    {
+      "id": 4,
+      "image": "https://s17.picofile.com/file/8422212418/4.jpg",
+      "name": "Playlist 4",
+      "detail": "This Is About Playlist 4 And Can Be Truncated"
+    },
+    {
+      "id": 5,
+      "image": "https://s16.picofile.com/file/8422212434/5.jpg",
+      "name": "Playlist 5",
+      "detail": "This Is About Playlist 5 And Can Be Truncated"
+    },
+    {
+      "id": 6,
+      "image": "https://s16.picofile.com/file/8422212450/6.jpg",
+      "name": "Playlist 6",
+      "detail": "This Is About Playlist 6 And Can Be Truncated"
+    },
+    {
+      "id": 7,
+      "image": "https://s16.picofile.com/file/8422212518/7.jpg",
+      "name": "Playlist 7",
+      "detail": "This Is About Playlist 7 And Can Be Truncated"
+    },
+    {
+      "id": 8,
+      "image": "https://s16.picofile.com/file/8422212526/8.jpg",
+      "name": "Playlist 8",
+      "detail": "This Is About Playlist 8 And Can Be Truncated"
+    },
+    {
+      "id": 9,
+      "image": "https://s16.picofile.com/file/8422212550/9.jpg",
+      "name": "Playlist 9",
+      "detail": "This Is About Playlist 9 And Can Be Truncated"
+    },
+    {
+      "id": 10,
+      "image": "https://s16.picofile.com/file/8422212584/10.jpg",
+      "name": "Playlist 10",
+      "detail": "This Is About Playlist 10 And Can Be Truncated"
+    }
+  ]
+}
